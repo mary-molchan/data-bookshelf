@@ -3,6 +3,20 @@
 > [!NOTE]
 > This repository is a personal reading index focused on data analytics, BI, governance, machine learning and data intelligence.
 
+## Topics Covered
+
+- 📊 Data Analytics & Data Science
+- 🐍 Python Programming for Data
+- 🧮 Statistics, Probability & Machine Learning
+- 🗄️ SQL, Databases & Relational Theory
+- 🏗️ Data Warehousing, ETL/ELT & Data Pipelines
+- ☁️ Cloud Data Platforms: AWS, Azure, Snowflake
+- ⚙️ Big Data Technologies: Spark, Kafka, Cassandra
+- 📈 Data Visualization, Tableau & Storytelling
+- 🧱 Data Governance, Data Quality, Data Mesh & Lakehouse
+- 🧠 Algorithms, Data Structures & Computational Thinking
+- 💼 Applied Domains: Business, Finance, Bioinformatics
+
 
 ## 📚 Books Index
 
