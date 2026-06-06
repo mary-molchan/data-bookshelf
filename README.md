@@ -15,7 +15,7 @@ This repository is a personal reading index focused on:
 - 💼 Applied Domains: Business, Finance, Bioinformatics
 
 
-## 📚 Books Index
+## Books Index
 
 ![Books](https://img.shields.io/badge/books-library-blue)
 ![PDF](https://img.shields.io/badge/format-PDF-red)
