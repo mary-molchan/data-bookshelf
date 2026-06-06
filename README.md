@@ -1,6 +1,11 @@
+<p align="center">
+  <img src="assets/banner.svg" alt="Data Bookshelf banner">
+</p>
+
 # Data Bookshelf
 
-Personal reading library about data analytics, business intelligence, data governance, machine learning, AI and data-driven decision making.
+> [!NOTE]
+> This repository is a personal reading index focused on data analytics, BI, governance, machine learning and data intelligence.
 
 
 ## 📚 Books Index
