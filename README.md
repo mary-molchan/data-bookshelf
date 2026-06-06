@@ -7,7 +7,7 @@ Personal reading library about data analytics, business intelligence, data gover
 
 ![Books](https://img.shields.io/badge/books-library-blue)
 ![PDF](https://img.shields.io/badge/format-PDF-red)
-![Topic](https://img.shields.io/badge/topic-data%20analytics-green)
+![Topic](https://img.shields.io/badge/topic-data-green)
 
 <!-- BOOKS-LIST:START -->
 | Book | File |
