@@ -1,5 +1,10 @@
 # Data Bookshelf
 
+
+![Books](https://img.shields.io/badge/books-library-blue)
+![PDF](https://img.shields.io/badge/format-PDF-red)
+![Topic](https://img.shields.io/badge/topic-data-green)
+
 This repository is a personal reading index focused on:
 
 - 📊 Data Analytics & Data Science
@@ -17,9 +22,6 @@ This repository is a personal reading index focused on:
 
 ## Books Index
 
-![Books](https://img.shields.io/badge/books-library-blue)
-![PDF](https://img.shields.io/badge/format-PDF-red)
-![Topic](https://img.shields.io/badge/topic-data-green)
 
 <!-- BOOKS-LIST:START -->
 | Book | File |
