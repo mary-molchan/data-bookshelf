@@ -2,8 +2,6 @@
 
 This repository is a personal reading index focused on:
 
-## Topics Covered
-
 - 📊 Data Analytics & Data Science
 - 🐍 Python Programming for Data
 - 🧮 Statistics, Probability & Machine Learning
