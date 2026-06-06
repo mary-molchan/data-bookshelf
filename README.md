@@ -3,7 +3,11 @@
 Personal reading library about data analytics, business intelligence, data governance, machine learning, AI and data-driven decision making.
 
 
-## Books Index
+## 📚 Books Index
+
+![Books](https://img.shields.io/badge/books-library-blue)
+![PDF](https://img.shields.io/badge/format-PDF-red)
+![Topic](https://img.shields.io/badge/topic-data%20analytics-green)
 
 <!-- BOOKS-LIST:START -->
 | Book | File |
