@@ -5,7 +5,9 @@
 ![PDF](https://img.shields.io/badge/format-PDF-red)
 ![Topic](https://img.shields.io/badge/topic-data-green)
 
-A personal technical library dedicated to data analytics, data science and modern data platforms. This repository brings together learning resources across the full data value chain: 
+A personal technical library dedicated to data analytics, data science and modern data platforms. 
+
+This repository brings together learning resources across the full data value chain: 
 
 - 📊 Data Analytics & Data Science
 - 🐍 Python Programming for Data
