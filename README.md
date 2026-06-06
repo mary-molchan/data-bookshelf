@@ -21,7 +21,7 @@ This repository brings together learning resources across the full data value ch
 - 🧠 Algorithms, Data Structures & Computational Thinking
 - 💼 Applied Domains: Business, Finance, Bioinformatics
 
-It supports my continuous development as a Data Analyst / BI Engineer / Data Intelligence professional, with a focus on building strong foundations in analytical thinking, data architecture, automation, decision support and scalable data solutions.
+
 
 ## Books Index
 
