@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/banner.svg" alt="Data Bookshelf banner">
-</p>
-
 # Data Bookshelf
 
 > [!NOTE]
