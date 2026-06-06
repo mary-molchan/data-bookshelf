@@ -5,11 +5,7 @@
 ![PDF](https://img.shields.io/badge/format-PDF-red)
 ![Topic](https://img.shields.io/badge/topic-data-green)
 
-A personal technical library dedicated to data analytics, data science and modern data platforms.
-
-This repository brings together learning resources across the full data value chain: from Python, SQL, statistics and algorithms to data engineering, data warehousing, BI, visualization, machine learning, big data ecosystems, cloud platforms, data quality and governance.
-
-It supports my continuous development as a Data Analyst / BI Engineer / Data Intelligence professional, with a focus on building strong foundations in analytical thinking, data architecture, automation, decision support and scalable data solutions.
+A personal technical library dedicated to data analytics, data science and modern data platforms. This repository brings together learning resources across the full data value chain: 
 
 - 📊 Data Analytics & Data Science
 - 🐍 Python Programming for Data
@@ -23,6 +19,7 @@ It supports my continuous development as a Data Analyst / BI Engineer / Data Int
 - 🧠 Algorithms, Data Structures & Computational Thinking
 - 💼 Applied Domains: Business, Finance, Bioinformatics
 
+It supports my continuous development as a Data Analyst / BI Engineer / Data Intelligence professional, with a focus on building strong foundations in analytical thinking, data architecture, automation, decision support and scalable data solutions.
 
 ## Books Index
 
