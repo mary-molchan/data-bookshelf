@@ -32,4 +32,6 @@ This repository brings together learning resources across the full data value ch
 | [Algorithms Illuminated 1 TIM ROUGHGARDEN](books/Algorithms_Illuminated_1_TIM_ROUGHGARDEN.pdf) | `Algorithms_Illuminated_1_TIM_ROUGHGARDEN.pdf` |
 | [Algorithms Illuminated 2 TIM ROUGHGARDEN](books/Algorithms_Illuminated_2_TIM_ROUGHGARDEN.pdf) | `Algorithms_Illuminated_2_TIM_ROUGHGARDEN.pdf` |
 | [Applied Data Science IAN LANGMORE](books/Applied_Data_Science_IAN_LANGMORE.pdf) | `Applied_Data_Science_IAN_LANGMORE.pdf` |
+| [Big Data Principles NATHAN MARZ](books/Big_Data_Principles_NATHAN_MARZ.pdf) | `Big_Data_Principles_NATHAN_MARZ.pdf` |
+| [BioPython JEFF CHANG](books/BioPython_JEFF_CHANG.pdf) | `BioPython_JEFF_CHANG.pdf` |
 <!-- BOOKS-LIST:END -->
