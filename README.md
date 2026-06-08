@@ -34,4 +34,5 @@ This repository brings together learning resources across the full data value ch
 | [Applied Data Science IAN LANGMORE](books/Applied_Data_Science_IAN_LANGMORE.pdf) | `Applied_Data_Science_IAN_LANGMORE.pdf` |
 | [Big Data Principles NATHAN MARZ](books/Big_Data_Principles_NATHAN_MARZ.pdf) | `Big_Data_Principles_NATHAN_MARZ.pdf` |
 | [BioPython JEFF CHANG](books/BioPython_JEFF_CHANG.pdf) | `BioPython_JEFF_CHANG.pdf` |
+| [Building Data Warehouse WILLIAM INMON](books/Building_Data_Warehouse%20_WILLIAM_INMON.pdf) | `Building_Data_Warehouse _WILLIAM_INMON.pdf` |
 <!-- BOOKS-LIST:END -->
