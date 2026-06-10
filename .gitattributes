@@ -1,0 +1,7 @@
+# Exclude automation scripts from GitHub language statistics
+scripts/*.py linguist-documentation
+**/*.py linguist-documentation
+
+# Exclude GitHub Actions from language statistics
+.github/workflows/*.yml linguist-documentation
+.github/workflows/*.yaml linguist-documentation
