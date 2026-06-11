@@ -46,4 +46,7 @@ This repository brings together learning resources across the full data value ch
 | [Data Integration Life Cycle Management ANDY LEONARD](books/Data_Integration_Life_Cycle_Management_ANDY_LEONARD.pdf) | `Data_Integration_Life_Cycle_Management_ANDY_LEONARD.pdf` |
 | [Data Lakehouse BILL INMON](books/Data_Lakehouse_BILL_INMON.pdf) | `Data_Lakehouse_BILL_INMON.pdf` |
 | [Data Mesh Delivering Data Driven Value OREILLY](books/Data_Mesh_Delivering_Data_Driven_Value_OREILLY.pdf) | `Data_Mesh_Delivering_Data_Driven_Value_OREILLY.pdf` |
+| [Data Mesh in Data Analytics CHRISTEENA UZHUTHUVAL](books/Data_Mesh_in_Data_Analytics_CHRISTEENA_UZHUTHUVAL.pdf) | `Data_Mesh_in_Data_Analytics_CHRISTEENA_UZHUTHUVAL.pdf` |
+| [Data Mesh LIVRE BLANC](books/Data_Mesh_LIVRE_BLANC.pdf) | `Data_Mesh_LIVRE_BLANC.pdf` |
+| [Data Quality Fundamentals OREILLY](books/Data_Quality_Fundamentals_OREILLY.pdf) | `Data_Quality_Fundamentals_OREILLY.pdf` |
 <!-- BOOKS-LIST:END -->
