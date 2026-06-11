@@ -36,4 +36,9 @@ This repository brings together learning resources across the full data value ch
 | [BioPython JEFF CHANG](books/BioPython_JEFF_CHANG.pdf) | `BioPython_JEFF_CHANG.pdf` |
 | [Building Data Warehouse WILLIAM INMON](books/Building_Data_Warehouse%20_WILLIAM_INMON.pdf) | `Building_Data_Warehouse _WILLIAM_INMON.pdf` |
 | [Building Data Warehouse VINCENT RAINARDI](books/Building_Data_Warehouse_VINCENT_RAINARDI.pdf) | `Building_Data_Warehouse_VINCENT_RAINARDI.pdf` |
+| [Building Skills in Python STEVEN LOTT](books/Building_Skills_in_Python_STEVEN_LOTT.pdf) | `Building_Skills_in_Python_STEVEN_LOTT.pdf` |
+| [Cassandra The Definitive Guide OREILLY](books/Cassandra_The_Definitive_Guide_OREILLY.pdf) | `Cassandra_The_Definitive_Guide_OREILLY.pdf` |
+| [Critical Data Literacy NORA MULVANEY](books/Critical_Data_Literacy_NORA_MULVANEY.pdf) | `Critical_Data_Literacy_NORA_MULVANEY.pdf` |
+| [Data Analysis with Python PETERS MORGAN](books/Data_Analysis_with_Python_PETERS_MORGAN.pdf) | `Data_Analysis_with_Python_PETERS_MORGAN.pdf` |
+| [Data Analytics ARTHUR ZHANG](books/Data_Analytics_ARTHUR_ZHANG.pdf) | `Data_Analytics_ARTHUR_ZHANG.pdf` |
 <!-- BOOKS-LIST:END -->
