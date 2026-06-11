@@ -41,4 +41,6 @@ This repository brings together learning resources across the full data value ch
 | [Critical Data Literacy NORA MULVANEY](books/Critical_Data_Literacy_NORA_MULVANEY.pdf) | `Critical_Data_Literacy_NORA_MULVANEY.pdf` |
 | [Data Analysis with Python PETERS MORGAN](books/Data_Analysis_with_Python_PETERS_MORGAN.pdf) | `Data_Analysis_with_Python_PETERS_MORGAN.pdf` |
 | [Data Analytics ARTHUR ZHANG](books/Data_Analytics_ARTHUR_ZHANG.pdf) | `Data_Analytics_ARTHUR_ZHANG.pdf` |
+| [Data Engineering Cookbook ANDREAS KRETZ](books/Data_Engineering_Cookbook_ANDREAS_KRETZ.pdf) | `Data_Engineering_Cookbook_ANDREAS_KRETZ.pdf` |
+| [Data Engineering with Python PAUL CRICKARD](books/Data_Engineering_with%20Python_PAUL_CRICKARD.pdf) | `Data_Engineering_with Python_PAUL_CRICKARD.pdf` |
 <!-- BOOKS-LIST:END -->
