@@ -49,4 +49,6 @@ This repository brings together learning resources across the full data value ch
 | [Data Mesh in Data Analytics CHRISTEENA UZHUTHUVAL](books/Data_Mesh_in_Data_Analytics_CHRISTEENA_UZHUTHUVAL.pdf) | `Data_Mesh_in_Data_Analytics_CHRISTEENA_UZHUTHUVAL.pdf` |
 | [Data Mesh LIVRE BLANC](books/Data_Mesh_LIVRE_BLANC.pdf) | `Data_Mesh_LIVRE_BLANC.pdf` |
 | [Data Quality Fundamentals OREILLY](books/Data_Quality_Fundamentals_OREILLY.pdf) | `Data_Quality_Fundamentals_OREILLY.pdf` |
+| [Data Science for Business FOSTER PROVOST](books/Data_Science_for_Business_FOSTER_PROVOST.pdf) | `Data_Science_for_Business_FOSTER_PROVOST.pdf` |
+| [Data Science from Scratch OREILLY](books/Data_Science_from_Scratch_OREILLY.pdf) | `Data_Science_from_Scratch_OREILLY.pdf` |
 <!-- BOOKS-LIST:END -->
