@@ -52,4 +52,5 @@ This repository brings together learning resources across the full data value ch
 | [Data Science for Business FOSTER PROVOST](books/Data_Science_for_Business_FOSTER_PROVOST.pdf) | `Data_Science_for_Business_FOSTER_PROVOST.pdf` |
 | [Data Science from Scratch OREILLY](books/Data_Science_from_Scratch_OREILLY.pdf) | `Data_Science_from_Scratch_OREILLY.pdf` |
 | [Data Structures and Algorithms in Python ROBERTO TAMASSIA](books/Data_Structures_and_Algorithms_in_Python_ROBERTO_TAMASSIA.pdf) | `Data_Structures_and_Algorithms_in_Python_ROBERTO_TAMASSIA.pdf` |
+| [Data Warehouse ETL Toolkit RALPH KIMBALL](books/Data_Warehouse_ETL_Toolkit_RALPH_KIMBALL.pdf) | `Data_Warehouse_ETL_Toolkit_RALPH_KIMBALL.pdf` |
 <!-- BOOKS-LIST:END -->
