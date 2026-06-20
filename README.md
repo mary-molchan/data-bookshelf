@@ -54,4 +54,6 @@ This repository brings together learning resources across the full data value ch
 | [Data Structures and Algorithms in Python ROBERTO TAMASSIA](books/Data_Structures_and_Algorithms_in_Python_ROBERTO_TAMASSIA.pdf) | `Data_Structures_and_Algorithms_in_Python_ROBERTO_TAMASSIA.pdf` |
 | [Data Warehouse ETL Toolkit RALPH KIMBALL](books/Data_Warehouse_ETL_Toolkit_RALPH_KIMBALL.pdf) | `Data_Warehouse_ETL_Toolkit_RALPH_KIMBALL.pdf` |
 | [Data Warehouse Lifecycle Toolkit RALPH KIMBALL](books/Data_Warehouse_Lifecycle_Toolkit_RALPH_KIMBALL.pdf) | `Data_Warehouse_Lifecycle_Toolkit_RALPH_KIMBALL.pdf` |
+| [Derivatives analytics with Python YVES HILPISCH](books/Derivatives_analytics_with_Python_YVES_HILPISCH.pdf) | `Derivatives_analytics_with_Python_YVES_HILPISCH.pdf` |
+| [Designing data intensive applications OREILLY](books/Designing_data_intensive_applications_OREILLY.pdf) | `Designing_data_intensive_applications_OREILLY.pdf` |
 <!-- BOOKS-LIST:END -->
