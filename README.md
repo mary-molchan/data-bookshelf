@@ -61,4 +61,6 @@ This repository brings together learning resources across the full data value ch
 | [Kafka The Definitive Guide OREILLY](books/Kafka_The_Definitive_Guide_OREILLY.pdf) | `Kafka_The_Definitive_Guide_OREILLY.pdf` |
 | [Learning Spark OREILLY](books/Learning_Spark_OREILLY.pdf) | `Learning_Spark_OREILLY.pdf` |
 | [Mastering Python for Finance JAMES WEIMING](books/Mastering_Python_for_Finance_JAMES_WEIMING.pdf) | `Mastering_Python_for_Finance_JAMES_WEIMING.pdf` |
+| [Time Series Analysis and Forecasting DOUGLAS MONTGOMERY (Douglas C. Montgomery)](books/Time_Series_Analysis_and_Forecasting_DOUGLAS_MONTGOMERY%20%28Douglas%20C.%20Montgomery%29.pdf) | `Time_Series_Analysis_and_Forecasting_DOUGLAS_MONTGOMERY (Douglas C. Montgomery).pdf` |
+| [Visual data storytelling with Tableau LINDY RYAN](books/Visual_data_storytelling_with_Tableau_LINDY_RYAN.pdf) | `Visual_data_storytelling_with_Tableau_LINDY_RYAN.pdf` |
 <!-- BOOKS-LIST:END -->
