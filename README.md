@@ -63,6 +63,7 @@ This repository brings together learning resources across the full data value ch
 | [Mastering Python for Finance JAMES WEIMING](books/Mastering_Python_for_Finance_JAMES_WEIMING.pdf) | `Mastering_Python_for_Finance_JAMES_WEIMING.pdf` |
 | [Matplotlib for Python SANDRO TOSI](books/Matplotlib_for_Python_SANDRO_TOSI.pdf) | `Matplotlib_for_Python_SANDRO_TOSI.pdf` |
 | [Scientific Programming with Python JOAKIM SUNDNES](books/Scientific_Programming_with_Python_JOAKIM_SUNDNES.pdf) | `Scientific_Programming_with_Python_JOAKIM_SUNDNES.pdf` |
+| [SQL and Relational Theory OREILLY](books/SQL_and_Relational_Theory_OREILLY.pdf) | `SQL_and_Relational_Theory_OREILLY.pdf` |
 | [SQL Hacks OREILLY](books/SQL_Hacks_OREILLY.pdf) | `SQL_Hacks_OREILLY.pdf` |
 | [Time Series Analysis and Forecasting DOUGLAS MONTGOMERY (Douglas C. Montgomery)](books/Time_Series_Analysis_and_Forecasting_DOUGLAS_MONTGOMERY%20%28Douglas%20C.%20Montgomery%29.pdf) | `Time_Series_Analysis_and_Forecasting_DOUGLAS_MONTGOMERY (Douglas C. Montgomery).pdf` |
 | [Understanding Big Data CHRIS EATON](books/Understanding_Big_Data_CHRIS_EATON.pdf) | `Understanding_Big_Data_CHRIS_EATON.pdf` |
