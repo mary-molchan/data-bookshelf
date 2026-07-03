@@ -62,6 +62,7 @@ This repository brings together learning resources across the full data value ch
 | [Learning Spark OREILLY](books/Learning_Spark_OREILLY.pdf) | `Learning_Spark_OREILLY.pdf` |
 | [Mastering Python for Finance JAMES WEIMING](books/Mastering_Python_for_Finance_JAMES_WEIMING.pdf) | `Mastering_Python_for_Finance_JAMES_WEIMING.pdf` |
 | [Matplotlib for Python SANDRO TOSI](books/Matplotlib_for_Python_SANDRO_TOSI.pdf) | `Matplotlib_for_Python_SANDRO_TOSI.pdf` |
+| [Modern Python Cookbook STEVEN LOTT](books/Modern_Python_Cookbook_STEVEN_LOTT.pdf) | `Modern_Python_Cookbook_STEVEN_LOTT.pdf` |
 | [Scientific Programming with Python JOAKIM SUNDNES](books/Scientific_Programming_with_Python_JOAKIM_SUNDNES.pdf) | `Scientific_Programming_with_Python_JOAKIM_SUNDNES.pdf` |
 | [SQL and Relational Theory OREILLY](books/SQL_and_Relational_Theory_OREILLY.pdf) | `SQL_and_Relational_Theory_OREILLY.pdf` |
 | [SQL Hacks OREILLY](books/SQL_Hacks_OREILLY.pdf) | `SQL_Hacks_OREILLY.pdf` |
