@@ -60,6 +60,7 @@ This repository brings together learning resources across the full data value ch
 | [Designing data intensive applications OREILLY](books/Designing_data_intensive_applications_OREILLY.pdf) | `Designing_data_intensive_applications_OREILLY.pdf` |
 | [ETL with Azure CHRISTIAN COTE](books/ETL_with_Azure_CHRISTIAN_COTE.pdf) | `ETL_with_Azure_CHRISTIAN_COTE.pdf` |
 | [Exploratory Data Analysis in Python ALLEN DOWNEY](books/Exploratory_Data_Analysis_in_Python_ALLEN_DOWNEY.pdf) | `Exploratory_Data_Analysis_in_Python_ALLEN_DOWNEY.pdf` |
+| [Introduction to algorithms THOMASH CORMEN](books/Introduction_to_algorithms_THOMASH_CORMEN.pdf) | `Introduction_to_algorithms_THOMASH_CORMEN.pdf` |
 | [Kafka The Definitive Guide OREILLY](books/Kafka_The_Definitive_Guide_OREILLY.pdf) | `Kafka_The_Definitive_Guide_OREILLY.pdf` |
 | [Learning Spark OREILLY](books/Learning_Spark_OREILLY.pdf) | `Learning_Spark_OREILLY.pdf` |
 | [Mastering Python for Finance JAMES WEIMING](books/Mastering_Python_for_Finance_JAMES_WEIMING.pdf) | `Mastering_Python_for_Finance_JAMES_WEIMING.pdf` |
