@@ -29,6 +29,7 @@ This repository brings together learning resources across the full data value ch
 <!-- BOOKS-LIST:START -->
 | Book | File |
 |---|---|
+| [AI driven leader GEOFF WOODS](books/AI_driven_leader_GEOFF_WOODS.pdf) | `AI_driven_leader_GEOFF_WOODS.pdf` |
 | [Algorithms Illuminated 1 TIM ROUGHGARDEN](books/Algorithms_Illuminated_1_TIM_ROUGHGARDEN.pdf) | `Algorithms_Illuminated_1_TIM_ROUGHGARDEN.pdf` |
 | [Algorithms Illuminated 2 TIM ROUGHGARDEN](books/Algorithms_Illuminated_2_TIM_ROUGHGARDEN.pdf) | `Algorithms_Illuminated_2_TIM_ROUGHGARDEN.pdf` |
 | [Applied Data Science IAN LANGMORE](books/Applied_Data_Science_IAN_LANGMORE.pdf) | `Applied_Data_Science_IAN_LANGMORE.pdf` |
