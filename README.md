@@ -44,6 +44,7 @@ This repository brings together learning resources across the full data value ch
 | [Data Analytics ARTHUR ZHANG](books/Data_Analytics_ARTHUR_ZHANG.pdf) | `Data_Analytics_ARTHUR_ZHANG.pdf` |
 | [Data engineering CHISOM NWOKWU](books/Data_engineering_CHISOM_NWOKWU.pdf) | `Data_engineering_CHISOM_NWOKWU.pdf` |
 | [Data Engineering Cookbook ANDREAS KRETZ](books/Data_Engineering_Cookbook_ANDREAS_KRETZ.pdf) | `Data_Engineering_Cookbook_ANDREAS_KRETZ.pdf` |
+| [Data Engineering Design Patterns 2025 OREILLY](books/Data_Engineering_Design_Patterns_2025_OREILLY.pdf) | `Data_Engineering_Design_Patterns_2025_OREILLY.pdf` |
 | [Data Engineering with Python PAUL CRICKARD](books/Data_Engineering_with%20Python_PAUL_CRICKARD.pdf) | `Data_Engineering_with Python_PAUL_CRICKARD.pdf` |
 | [Data Integration Life Cycle Management ANDY LEONARD](books/Data_Integration_Life_Cycle_Management_ANDY_LEONARD.pdf) | `Data_Integration_Life_Cycle_Management_ANDY_LEONARD.pdf` |
 | [Data Lakehouse BILL INMON](books/Data_Lakehouse_BILL_INMON.pdf) | `Data_Lakehouse_BILL_INMON.pdf` |
