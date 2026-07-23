@@ -61,6 +61,7 @@ This repository brings together learning resources across the full data value ch
 | [Deep Learning with Python FRANCOIS CHOLLET](books/Deep_Learning_with_Python_FRANCOIS_CHOLLET.pdf) | `Deep_Learning_with_Python_FRANCOIS_CHOLLET.pdf` |
 | [Derivatives analytics with Python YVES HILPISCH](books/Derivatives_analytics_with_Python_YVES_HILPISCH.pdf) | `Derivatives_analytics_with_Python_YVES_HILPISCH.pdf` |
 | [Designing data intensive applications OREILLY](books/Designing_data_intensive_applications_OREILLY.pdf) | `Designing_data_intensive_applications_OREILLY.pdf` |
+| [Docker deep dive NIGEL POULTON](books/Docker_deep_dive_NIGEL_POULTON.pdf) | `Docker_deep_dive_NIGEL_POULTON.pdf` |
 | [ETL with Azure CHRISTIAN COTE](books/ETL_with_Azure_CHRISTIAN_COTE.pdf) | `ETL_with_Azure_CHRISTIAN_COTE.pdf` |
 | [Exploratory Data Analysis in Python ALLEN DOWNEY](books/Exploratory_Data_Analysis_in_Python_ALLEN_DOWNEY.pdf) | `Exploratory_Data_Analysis_in_Python_ALLEN_DOWNEY.pdf` |
 | [Introduction to algorithms THOMASH CORMEN](books/Introduction_to_algorithms_THOMASH_CORMEN.pdf) | `Introduction_to_algorithms_THOMASH_CORMEN.pdf` |
