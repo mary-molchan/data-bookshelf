@@ -65,6 +65,7 @@ This repository brings together learning resources across the full data value ch
 | [ETL with Azure CHRISTIAN COTE](books/ETL_with_Azure_CHRISTIAN_COTE.pdf) | `ETL_with_Azure_CHRISTIAN_COTE.pdf` |
 | [Exploratory Data Analysis in Python ALLEN DOWNEY](books/Exploratory_Data_Analysis_in_Python_ALLEN_DOWNEY.pdf) | `Exploratory_Data_Analysis_in_Python_ALLEN_DOWNEY.pdf` |
 | [Implementing SQL Data Warehouse MICROSOFT](books/Implementing_SQL_Data_Warehouse_MICROSOFT.pdf) | `Implementing_SQL_Data_Warehouse_MICROSOFT.pdf` |
+| [Introducing Data Science DAVY CIELEN](books/Introducing_Data_Science_DAVY%20CIELEN.pdf) | `Introducing_Data_Science_DAVY CIELEN.pdf` |
 | [Introduction to algorithms THOMASH CORMEN](books/Introduction_to_algorithms_THOMASH_CORMEN.pdf) | `Introduction_to_algorithms_THOMASH_CORMEN.pdf` |
 | [Kafka The Definitive Guide OREILLY](books/Kafka_The_Definitive_Guide_OREILLY.pdf) | `Kafka_The_Definitive_Guide_OREILLY.pdf` |
 | [Learning Spark OREILLY](books/Learning_Spark_OREILLY.pdf) | `Learning_Spark_OREILLY.pdf` |
