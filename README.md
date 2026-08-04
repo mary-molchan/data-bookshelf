@@ -69,6 +69,7 @@ This repository brings together learning resources across the full data value ch
 | [Introduction to algorithms THOMASH CORMEN](books/Introduction_to_algorithms_THOMASH_CORMEN.pdf) | `Introduction_to_algorithms_THOMASH_CORMEN.pdf` |
 | [Kafka The Definitive Guide OREILLY](books/Kafka_The_Definitive_Guide_OREILLY.pdf) | `Kafka_The_Definitive_Guide_OREILLY.pdf` |
 | [Launching enterprise products ANUSHA RAVI](books/Launching_enterprise_products_ANUSHA_RAVI.pdf) | `Launching_enterprise_products_ANUSHA_RAVI.pdf` |
+| [Learning Spark 2.0 OREILLY](books/Learning%20Spark_2.0_OREILLY.pdf) | `Learning Spark_2.0_OREILLY.pdf` |
 | [Learning Spark OREILLY](books/Learning_Spark_OREILLY.pdf) | `Learning_Spark_OREILLY.pdf` |
 | [Mastering Python for Finance JAMES WEIMING](books/Mastering_Python_for_Finance_JAMES_WEIMING.pdf) | `Mastering_Python_for_Finance_JAMES_WEIMING.pdf` |
 | [Matplotlib for Python SANDRO TOSI](books/Matplotlib_for_Python_SANDRO_TOSI.pdf) | `Matplotlib_for_Python_SANDRO_TOSI.pdf` |
