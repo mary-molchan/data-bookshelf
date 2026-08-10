@@ -72,6 +72,7 @@ This repository brings together learning resources across the full data value ch
 | [Learning Spark 2.0 OREILLY](books/Learning%20Spark_2.0_OREILLY.pdf) | `Learning Spark_2.0_OREILLY.pdf` |
 | [Learning Python OREILLY](books/Learning_Python_OREILLY.pdf) | `Learning_Python_OREILLY.pdf` |
 | [Learning Spark OREILLY](books/Learning_Spark_OREILLY.pdf) | `Learning_Spark_OREILLY.pdf` |
+| [Learning SQL OREILLY](books/Learning_SQL_OREILLY.pdf) | `Learning_SQL_OREILLY.pdf` |
 | [Mastering Python for Finance JAMES WEIMING](books/Mastering_Python_for_Finance_JAMES_WEIMING.pdf) | `Mastering_Python_for_Finance_JAMES_WEIMING.pdf` |
 | [Matplotlib for Python SANDRO TOSI](books/Matplotlib_for_Python_SANDRO_TOSI.pdf) | `Matplotlib_for_Python_SANDRO_TOSI.pdf` |
 | [Matplotlib JOHN HUNTER](books/Matplotlib_JOHN_HUNTER.pdf) | `Matplotlib_JOHN_HUNTER.pdf` |
