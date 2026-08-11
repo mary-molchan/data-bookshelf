@@ -74,6 +74,7 @@ This repository brings together learning resources across the full data value ch
 | [Learning Spark OREILLY](books/Learning_Spark_OREILLY.pdf) | `Learning_Spark_OREILLY.pdf` |
 | [Learning SQL OREILLY](books/Learning_SQL_OREILLY.pdf) | `Learning_SQL_OREILLY.pdf` |
 | [Mastering Python for Finance JAMES WEIMING](books/Mastering_Python_for_Finance_JAMES_WEIMING.pdf) | `Mastering_Python_for_Finance_JAMES_WEIMING.pdf` |
+| [Mastering Python High Performance FERNANDO DOGLIO](books/Mastering_Python_High_Performance_FERNANDO_DOGLIO.pdf) | `Mastering_Python_High_Performance_FERNANDO_DOGLIO.pdf` |
 | [Matplotlib for Python SANDRO TOSI](books/Matplotlib_for_Python_SANDRO_TOSI.pdf) | `Matplotlib_for_Python_SANDRO_TOSI.pdf` |
 | [Matplotlib JOHN HUNTER](books/Matplotlib_JOHN_HUNTER.pdf) | `Matplotlib_JOHN_HUNTER.pdf` |
 | [Mining of Massive Datasets JURE LESKOVEC](books/Mining_of_Massive_Datasets_JURE_LESKOVEC.pdf) | `Mining_of_Massive_Datasets_JURE_LESKOVEC.pdf` |
