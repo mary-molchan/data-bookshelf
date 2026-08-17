@@ -83,6 +83,7 @@ This repository brings together learning resources across the full data value ch
 | [Modern Python Cookbook STEVEN LOTT](books/Modern_Python_Cookbook_STEVEN_LOTT.pdf) | `Modern_Python_Cookbook_STEVEN_LOTT.pdf` |
 | [NumPy Cookbook IVAN IDRIS](books/NumPy_Cookbook_IVAN_IDRIS.pdf) | `NumPy_Cookbook_IVAN_IDRIS.pdf` |
 | [NumPy IVAN IDRIS](books/NumPy_IVAN_IDRIS.pdf) | `NumPy_IVAN_IDRIS.pdf` |
+| [Practical Statistics for Data Scientists OREILLY](books/Practical_Statistics_for_Data_Scientists_OREILLY.pdf) | `Practical_Statistics_for_Data_Scientists_OREILLY.pdf` |
 | [Scientific Programming with Python JOAKIM SUNDNES](books/Scientific_Programming_with_Python_JOAKIM_SUNDNES.pdf) | `Scientific_Programming_with_Python_JOAKIM_SUNDNES.pdf` |
 | [SQL and Relational Theory OREILLY](books/SQL_and_Relational_Theory_OREILLY.pdf) | `SQL_and_Relational_Theory_OREILLY.pdf` |
 | [SQL Hacks OREILLY](books/SQL_Hacks_OREILLY.pdf) | `SQL_Hacks_OREILLY.pdf` |
