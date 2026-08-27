@@ -86,6 +86,7 @@ This repository brings together learning resources across the full data value ch
 | [Practical Statistics for Data Scientists OREILLY](books/Practical_Statistics_for_Data_Scientists_OREILLY.pdf) | `Practical_Statistics_for_Data_Scientists_OREILLY.pdf` |
 | [Prepare data for Tableau TIM COSTELLO](books/Prepare_data_for_Tableau_TIM_COSTELLO.pdf) | `Prepare_data_for_Tableau_TIM_COSTELLO.pdf` |
 | [Principles of Data Wrangling OREILLY](books/Principles_of_Data_Wrangling_OREILLY.pdf) | `Principles_of_Data_Wrangling_OREILLY.pdf` |
+| [Probability and Statictics for Programmers ALLEN DOWNEY](books/Probability_and_Statictics_for_Programmers_ALLEN_DOWNEY.pdf) | `Probability_and_Statictics_for_Programmers_ALLEN_DOWNEY.pdf` |
 | [Scientific Programming with Python JOAKIM SUNDNES](books/Scientific_Programming_with_Python_JOAKIM_SUNDNES.pdf) | `Scientific_Programming_with_Python_JOAKIM_SUNDNES.pdf` |
 | [SQL and Relational Theory OREILLY](books/SQL_and_Relational_Theory_OREILLY.pdf) | `SQL_and_Relational_Theory_OREILLY.pdf` |
 | [SQL Hacks OREILLY](books/SQL_Hacks_OREILLY.pdf) | `SQL_Hacks_OREILLY.pdf` |
