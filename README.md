@@ -89,6 +89,7 @@ This repository brings together learning resources across the full data value ch
 | [Probability and Statictics for Programmers ALLEN DOWNEY](books/Probability_and_Statictics_for_Programmers_ALLEN_DOWNEY.pdf) | `Probability_and_Statictics_for_Programmers_ALLEN_DOWNEY.pdf` |
 | [Probability for Data Science STANLEY CHAN](books/Probability_for_Data_Science_STANLEY_CHAN.pdf) | `Probability_for_Data_Science_STANLEY_CHAN.pdf` |
 | [Python Best Practices KRISTIAN ROTHER](books/Python_Best_Practices_KRISTIAN_ROTHER.pdf) | `Python_Best_Practices_KRISTIAN_ROTHER.pdf` |
+| [Python code for AI DAVID POOLE](books/Python_code_for_AI_DAVID_POOLE.pdf) | `Python_code_for_AI_DAVID_POOLE.pdf` |
 | [Scientific Programming with Python JOAKIM SUNDNES](books/Scientific_Programming_with_Python_JOAKIM_SUNDNES.pdf) | `Scientific_Programming_with_Python_JOAKIM_SUNDNES.pdf` |
 | [SQL and Relational Theory OREILLY](books/SQL_and_Relational_Theory_OREILLY.pdf) | `SQL_and_Relational_Theory_OREILLY.pdf` |
 | [SQL Hacks OREILLY](books/SQL_Hacks_OREILLY.pdf) | `SQL_Hacks_OREILLY.pdf` |
