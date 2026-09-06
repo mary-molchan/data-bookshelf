@@ -92,6 +92,7 @@ This repository brings together learning resources across the full data value ch
 | [Python code for AI DAVID POOLE](books/Python_code_for_AI_DAVID_POOLE.pdf) | `Python_code_for_AI_DAVID_POOLE.pdf` |
 | [Python Cookbook OREILLY](books/Python_Cookbook_OREILLY.pdf) | `Python_Cookbook_OREILLY.pdf` |
 | [Python Data Analytics FABIO NELLI](books/Python_Data_Analytics_FABIO%20NELLI.pdf) | `Python_Data_Analytics_FABIO NELLI.pdf` |
+| [Python data science handbook OREILLY](books/Python_data_science_handbook_OREILLY.pdf) | `Python_data_science_handbook_OREILLY.pdf` |
 | [Scientific Programming with Python JOAKIM SUNDNES](books/Scientific_Programming_with_Python_JOAKIM_SUNDNES.pdf) | `Scientific_Programming_with_Python_JOAKIM_SUNDNES.pdf` |
 | [SQL and Relational Theory OREILLY](books/SQL_and_Relational_Theory_OREILLY.pdf) | `SQL_and_Relational_Theory_OREILLY.pdf` |
 | [SQL Hacks OREILLY](books/SQL_Hacks_OREILLY.pdf) | `SQL_Hacks_OREILLY.pdf` |
