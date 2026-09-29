@@ -98,6 +98,7 @@ This repository brings together learning resources across the full data value ch
 | [Python for Science DAVID PINE](books/Python_for_Science_DAVID_PINE.pdf) | `Python_for_Science_DAVID_PINE.pdf` |
 | [Python Programming ADAM STEWARD](books/Python_Programming_ADAM_STEWARD.pdf) | `Python_Programming_ADAM_STEWARD.pdf` |
 | [Python Programming ANTHONY ALINE](books/Python_Programming_ANTHONY_ALINE.pdf) | `Python_Programming_ANTHONY_ALINE.pdf` |
+| [Python Programming HANS PETER HALVORSEN](books/Python_Programming_HANS_PETER_HALVORSEN.pdf) | `Python_Programming_HANS_PETER_HALVORSEN.pdf` |
 | [Scientific Programming with Python JOAKIM SUNDNES](books/Scientific_Programming_with_Python_JOAKIM_SUNDNES.pdf) | `Scientific_Programming_with_Python_JOAKIM_SUNDNES.pdf` |
 | [SQL and Relational Theory OREILLY](books/SQL_and_Relational_Theory_OREILLY.pdf) | `SQL_and_Relational_Theory_OREILLY.pdf` |
 | [SQL Hacks OREILLY](books/SQL_Hacks_OREILLY.pdf) | `SQL_Hacks_OREILLY.pdf` |
