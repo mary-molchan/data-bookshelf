@@ -102,6 +102,7 @@ This repository brings together learning resources across the full data value ch
 | [Rebuilding Data pipelines OREILLY](books/Rebuilding_Data_pipelines_OREILLY.pdf) | `Rebuilding_Data_pipelines_OREILLY.pdf` |
 | [Scientific Programming with Python JOAKIM SUNDNES](books/Scientific_Programming_with_Python_JOAKIM_SUNDNES.pdf) | `Scientific_Programming_with_Python_JOAKIM_SUNDNES.pdf` |
 | [SQL and Relational Theory OREILLY](books/SQL_and_Relational_Theory_OREILLY.pdf) | `SQL_and_Relational_Theory_OREILLY.pdf` |
+| [SQL for Data Science ANTONIO BADIA](books/SQL_for_Data_Science_ANTONIO_BADIA.pdf) | `SQL_for_Data_Science_ANTONIO_BADIA.pdf` |
 | [SQL Hacks OREILLY](books/SQL_Hacks_OREILLY.pdf) | `SQL_Hacks_OREILLY.pdf` |
 | [Statistical learning TREVOR HASTIE](books/Statistical_learning_TREVOR_HASTIE.pdf) | `Statistical_learning_TREVOR_HASTIE.pdf` |
 | [Tableau Data Visualizations JEN STIRRUP](books/Tableau_Data_Visualizations_JEN_STIRRUP.pdf) | `Tableau_Data_Visualizations_JEN_STIRRUP.pdf` |
