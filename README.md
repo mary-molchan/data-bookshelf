@@ -106,6 +106,7 @@ This repository brings together learning resources across the full data value ch
 | [SQL Hacks OREILLY](books/SQL_Hacks_OREILLY.pdf) | `SQL_Hacks_OREILLY.pdf` |
 | [SQL Query Solutions and Techniques OREILLY](books/SQL_Query_Solutions_and_Techniques_OREILLY.pdf) | `SQL_Query_Solutions_and_Techniques_OREILLY.pdf` |
 | [Statistical learning TREVOR HASTIE](books/Statistical_learning_TREVOR_HASTIE.pdf) | `Statistical_learning_TREVOR_HASTIE.pdf` |
+| [Storytelling with data COLE KNAFLIC](books/Storytelling_with_data_COLE_KNAFLIC.pdf) | `Storytelling_with_data_COLE_KNAFLIC.pdf` |
 | [Tableau Data Visualizations JEN STIRRUP](books/Tableau_Data_Visualizations_JEN_STIRRUP.pdf) | `Tableau_Data_Visualizations_JEN_STIRRUP.pdf` |
 | [Time Series Analysis and Forecasting DOUGLAS MONTGOMERY (Douglas C. Montgomery)](books/Time_Series_Analysis_and_Forecasting_DOUGLAS_MONTGOMERY%20%28Douglas%20C.%20Montgomery%29.pdf) | `Time_Series_Analysis_and_Forecasting_DOUGLAS_MONTGOMERY (Douglas C. Montgomery).pdf` |
 | [Understanding Big Data CHRIS EATON](books/Understanding_Big_Data_CHRIS_EATON.pdf) | `Understanding_Big_Data_CHRIS_EATON.pdf` |
